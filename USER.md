@@ -5,8 +5,8 @@
 - **Name:** Andy
 - **What to call them:** Andy
 - **Pronouns:** *(optional)*
-- **Timezone:** UTC *(待确认)*
-- **Notes:** 喜欢我作为 AI 助手；如使用 emoji，偏清新风格。
+- **Timezone:** Australia/Sydney（悉尼）
+- **Notes:** 喜欢我作为 AI 助手；emoji 风格不再限制。
 
 ## Context
 
