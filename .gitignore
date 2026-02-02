@@ -1,0 +1,42 @@
+# 日志文件
+*.log
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 敏感信息
+telegram_config.json
+*.pem
+*.key
+
+# 进化数据（包含运行时数据）
+aggressive_evolution.json
+smart_evolution.json
+
+# 技能索引（运行时生成）
+skill_indexes/
+
+# 优化的系统提示（运行时生成）
+optimized_system_prompt.md
+
+# 其他运行时文件
+guardian_cron.log
+evolution.log
+code_evolver.log
+smart_evolver.log
+skill_manager.log
