@@ -1,0 +1,9 @@
+# The core (skill_manager.py / smart_evolver.py) is dependency-free — it runs
+# on the Python 3.8+ standard library alone.
+#
+# The only optional dependency is `requests`, used solely for Telegram
+# notifications in smart_evolver.py. Install it only if you enable them:
+#
+#   pip install requests
+#
+# requests>=2.25
