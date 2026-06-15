@@ -7,6 +7,10 @@
 [![Dependencies: none](https://img.shields.io/badge/dependencies-zero-brightgreen.svg)](#requirements)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-orange.svg)](#contributing)
 
+<p align="center">
+  <img src="docs/architecture.svg" alt="OpenClaw Skill Manager — three-tier lazy loading, architecture and lifecycle" width="880">
+</p>
+
 ---
 
 ## The problem
